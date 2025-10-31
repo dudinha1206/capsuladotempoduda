@@ -1,0 +1,18 @@
+body {
+    background-color: ivory;
+    text-align: left;
+}
+h1 {
+    color: hotpink;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: overline;
+}
+p {
+    color: black;
+    font-style: italic;
+    font-weight: normal;
+}
+.lista {
+    text-align: left;
+}
